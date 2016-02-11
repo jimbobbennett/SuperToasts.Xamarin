@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SuperToasts.Xamarin</id>
+    <version>1.0</version>
+    <title>SuperToasts Xamarin wrapper</title>
+    <authors>Jim Bennett</authors>
+    <owners>Jim Bennett</owners>
+    <projectUrl>https://github.com/JohnPersano/SuperToasts</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin wrapper of https://github.com/JohnPersano/SuperToasts</description>
+    <releaseNotes>Initial version</releaseNotes>
+  </metadata>
+  <files>
+    <file src="bin\Debug\*.pdb" target="lib\MonoAndroid403" />
+  </files>
+</package>
